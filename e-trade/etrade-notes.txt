@@ -1,6 +1,6 @@
 Server için aylık 1000₺ veya 1600₺ (Webtropia)
-Google Play Store Developer Account 1000₺ (Google)
-Apple Developer Account 3500₺ veya 14000₺ (Apple)
+Google Play Store Developer Account 1000₺
+Apple Developer Account 3500₺ veya 14000₺
 DB Kurgusu 3 hafta
 API yazılması 9 hafta
 UI'ların hazırlanması 6 hafta
