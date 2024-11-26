@@ -1,0 +1,11 @@
+1- Shipping Rate | Shiping Amount | Label Rate | Label Amount
+2- Shipment Import
+3- Fedex Import
+4- All Shipment Lists
+5- Admin Dashboard
+6- Customer List
+7- Employee List
+8- Admin List
+9- Role Management
+10- Log List
+11- Manuel Data Entry Page
